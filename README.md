@@ -9,4 +9,4 @@ ____
 **Если у вас уже был скопирован какой-нибудь текст (или вопрос которого не существует в локальной базе), при этом запустив батник - то выведится ошибка**
 ____
 # Пример работы
-![gif_is_rpo_test]https://github.com/vadossus/gif_test_is_rpo/blob/main/gifka.gif
+![gifka]https://github.com/vadossus/gif_test_is_rpo/blob/main/gifka.gif
